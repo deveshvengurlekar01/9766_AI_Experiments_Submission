@@ -1,3 +1,5 @@
+// first install deap using command pip install deap
+
 from deap import base, creator, tools
 import numpy as np
 
